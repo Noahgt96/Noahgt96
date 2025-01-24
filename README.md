@@ -1,4 +1,4 @@
-#  Noe Gonzalez
+# :raising_hand: Noe Gonzalez
 
 **`Data Scientist/Analyst`**
 
